@@ -1,5 +1,5 @@
 ## Hi there 👋
-  - 🔭 I’m currently working on creating alumini-directory website.
+  - 🔭 I’m currently working on creating alumini-directory website, park-n-seek website, and LoopQuest RenPY.
   - 🌱 I’m currently learning java, javascript, react, node.js
   - The projects that I have completed are: youtube clone (using HTML and css) and amazon clone (using HTML, css and javascript).
   - 😄 Pronouns: he/him
